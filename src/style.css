@@ -1,0 +1,9 @@
+/*Para probrar si el extract minimize funciona correctamente o no*/
+html, body{
+    background-color:white;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
